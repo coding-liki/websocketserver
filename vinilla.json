@@ -1,0 +1,10 @@
+{
+    "name":"WebSocketServer",
+    "vendor":"CodingLiki",
+    "description":"простой сервер Web-сокетов на php сокетах",
+    "version":"0.1",
+    "repo_url":"https://github.com/coding-liki/websocketserver.git",
+    "depends_on": [
+        "CodingLiki/SimpleServer"
+    ]
+}
